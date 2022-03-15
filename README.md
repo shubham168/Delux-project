@@ -4,6 +4,12 @@
 Delux is a website for hotel and resort booking. This has been a project built within a
 week in collaboration with 4 team members
 
+![Delux_clone_img](https://github.com/shubham168/Delux-project/blob/main/delux.PNG)
+<p align="center">
+ 
+  <img alt="Meesho_clone_img" src="https://github.com/shubham168/Delux-project/blob/main/delux-sm.png">
+
+</p>
 
 
 ## Demo
